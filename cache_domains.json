@@ -133,6 +133,11 @@
 			"domain_files": ["xboxlive.txt"]
 		},
 		{
+			"name": "kaspersky",
+			"description": "CDN for kaspersky",
+			"domain_files": ["kaspersky.txt"]
+		},
+		{
 			"name": "vk",
 			"description": "CDN for vk",
 			"domain_files": ["vk.txt"]
