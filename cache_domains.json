@@ -133,6 +133,11 @@
 			"domain_files": ["xboxlive.txt"]
 		},
 		{
+			"name": "vk",
+			"description": "CDN for vk",
+			"domain_files": ["vk.txt"]
+		},
+		{
 			"name": "youtube",
 			"description": "CDN for youtube",
 			"domain_files": ["youtube.txt"]
