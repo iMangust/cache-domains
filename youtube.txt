@@ -1,3 +1,0 @@
-youtube.com
-googlevideo.com
-*.googlevideo.com
