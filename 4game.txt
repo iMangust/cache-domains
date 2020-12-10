@@ -1,0 +1,4 @@
+cdn.4game.com
+*.cdn.4game.com
+cdn.inn.ru
+*.cdn.inn.ru
