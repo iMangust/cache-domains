@@ -49,3 +49,4 @@ update1.csgo.wmsj.cn
 st.dl.bscstorage.net
 cdn.mileweb.cs.steampowered.com.8686c.com
 steamcdn-a.akamaihd.net
+steam.ru.qtlglb.com
