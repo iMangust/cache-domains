@@ -1,6 +1,0 @@
-vk.com
-*.vk.com
-userapi.com
-*.userapi.com
-mycdn.me
-*.mycdn.me
