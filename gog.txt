@@ -1,7 +1,0 @@
-cdn-api.gog.com.edgesuite.net
-gog.com.edgesuite.net
-*.gog.com.edgesuite.net
-gameplay.gog.com
-galaxy-library.gog.com
-insights-collector.gog.com
-cdn-api.gog.com
