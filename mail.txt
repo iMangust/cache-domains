@@ -1,4 +1,4 @@
-kg.dl.mail.ru
+pkg.dl.mail.ru
 pkg-store.dl.mail.ru
 pkg.gc.my.com
 *.dl.mail.ru
