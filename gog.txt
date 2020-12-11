@@ -1,3 +1,4 @@
 cdn-api.gog.com.edgesuite.net
 gog.com.edgesuite.net
 *.gog.com.edgesuite.net
+a1807.b.akamai.net
