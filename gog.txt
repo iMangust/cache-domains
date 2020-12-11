@@ -1,2 +1,3 @@
 cdn-api.gog.com.edgesuite.net
+gog.com.edgesuite.net
 *.gog.com.edgesuite.net
