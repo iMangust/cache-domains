@@ -143,11 +143,6 @@
 			"domain_files": ["mail.txt"]
 		},
 		{
-			"name": "gog",
-			"description": "CDN for gog",
-			"domain_files": ["gog.txt"]
-		},
-		{
 			"name": "kaspersky",
 			"description": "CDN for kaspersky",
 			"domain_files": ["kaspersky.txt"]
