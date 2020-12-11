@@ -2,5 +2,5 @@ portal.mail.ru
 pkg.dl.mail.ru
 pkg-store.dl.mail.ru
 pkg.gc.my.com
-adm-store.dl.mail.ru
-admin.dl.mail.ru
+*.dl.mail.ru
+*.gc.my.com
