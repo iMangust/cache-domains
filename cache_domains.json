@@ -138,6 +138,11 @@
 			"domain_files": ["4game.txt"]
 		},
 		{
+			"name": "mail",
+			"description": "CDN for mail",
+			"domain_files": ["mail.txt"]
+		},
+		{
 			"name": "kaspersky",
 			"description": "CDN for kaspersky",
 			"domain_files": ["kaspersky.txt"]
