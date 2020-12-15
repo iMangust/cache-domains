@@ -1,0 +1,2 @@
+igcdn-photos-h-a.akamaihd.net
+*.igcdn-photos-h-a.akamaihd.net
