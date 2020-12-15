@@ -4,3 +4,5 @@ cdninstagram.com
 *.cdninstagram.com
 scontent-arn2-2.cdninstagram.com
 instagram.com
+scontent.cdninstagram.com
+*.scontent.cdninstagram.com
