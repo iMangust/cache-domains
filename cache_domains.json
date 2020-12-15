@@ -143,6 +143,11 @@
 			"domain_files": ["mail.txt"]
 		},
 		{
+			"name": "instagram",
+			"description": "CDN for instagram",
+			"domain_files": ["instagram.txt"]
+		},
+		{
 			"name": "kaspersky",
 			"description": "CDN for kaspersky",
 			"domain_files": ["kaspersky.txt"]
