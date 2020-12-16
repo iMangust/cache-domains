@@ -3,3 +3,7 @@ pkg-store.dl.mail.ru
 pkg.gc.my.com
 *.dl.mail.ru
 *.gc.my.com
+mail.ru
+*.mail.ru
+retina.news.mail.ru
+*.news.mail.ru
