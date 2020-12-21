@@ -143,6 +143,11 @@
 			"domain_files": ["mail.txt"]
 		},
 		{
+			"name": "akamai",
+			"description": "CDN for akamai",
+			"domain_files": ["akamai.txt"]
+		},
+		{
 			"name": "kaspersky",
 			"description": "CDN for kaspersky",
 			"domain_files": ["kaspersky.txt"]
