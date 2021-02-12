@@ -133,11 +133,6 @@
 			"domain_files": ["xboxlive.txt"]
 		},
 		{
-			"name": "4game",
-			"description": "CDN for 4game",
-			"domain_files": ["4game.txt"]
-		},
-		{
 			"name": "mail",
 			"description": "CDN for mail",
 			"domain_files": ["mail.txt"]
