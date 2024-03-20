@@ -1,3 +1,4 @@
 vk.com
 *.vk.com
 *.vkuser.net
+*.userapi.com
