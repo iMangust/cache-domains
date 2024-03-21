@@ -1,10 +1,5 @@
 {
-	"cache_domains": [		
-		{
-			"name": "nvidia",
-			"description": "CDN for nvidia",
-			"domain_files": ["nvidia.txt"]
-		},		
+	"cache_domains": [				
 		{
 			"name": "arenanet",
 			"description": "CDN for guild wars, HoT",
