@@ -1,10 +1,5 @@
 {
 	"cache_domains": [
-				{
-			"name": "vk",
-			"description": "CDN for vk",
-			"domain_files": ["vk.txt"]
-		},
 		{
 			"name": "arenanet",
 			"description": "CDN for guild wars, HoT",
