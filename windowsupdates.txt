@@ -17,3 +17,17 @@ ntservicepack.microsoft.com
 windowsupdate.com
 windowsupdate.microsoft.com
 wustat.windows.com
+drivers.amd.com
+*.download.nvidia.com
+global-download.acer.com
+dlcdnets.asus.com
+dl.dell.com
+content.us.dynabook.com
+download.gigabyte.com
+ftp.hp.com
+downloadmirror.intel.com
+consumer-tkbdownload.huawei.com
+download.lenovo.com
+download.microsoft.com
+download.msi.com
+downloadcenter.mustek.co.za
