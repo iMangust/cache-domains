@@ -27,8 +27,6 @@ m.tiktok.com
 muscdn.com
 tiktokcdn.com
 tiktokcdn.com.c.worldfcdn.com
-(^|\.)muscdn\.com$
-(^|\.)musical\.ly$
 tiktok.com
 *.tiktok.com
 www.tiktok.com
