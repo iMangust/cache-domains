@@ -653,9 +653,6 @@ us.download.nvidia.com
 www.nvidia.com
 developer.download.nvidia.com
 gfwsl.geforce.com
-drivers.amd.com
-download.amd.com
-www.amd.com
 repo.radeon.com
 global-download.acer.com
 static.acer.com
