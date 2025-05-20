@@ -18,6 +18,9 @@ windowsupdate.com
 windowsupdate.microsoft.com
 wustat.windows.com
 drivers.amd.com
+drivers.amd.com
+download.amd.com
+www.amd.com
 *.download.nvidia.com
 global-download.acer.com
 dlcdnets.asus.com
